@@ -1,6 +1,6 @@
 # SOSTENIBILIDAD
 
-![Imagen de sostenibilidad](./img/sos.jpg)
+![Imagen de sostenibilidad](./img/sos.jpeg)
 
 ## Índice
 1.1. Introducción  
